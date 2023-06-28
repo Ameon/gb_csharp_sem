@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gb\\csharp\\Seminars\\Seminars\\Sem1\\Sem1.csproj",
-      "projectName": "Sem1",
-      "projectPath": "D:\\gb\\csharp\\Seminars\\Seminars\\Sem1\\Sem1.csproj",
+      "projectUniqueName": "D:\\gb\\csharp\\Seminars\\Seminars\\Sem3\\Sem3.csproj",
+      "projectName": "Sem3",
+      "projectPath": "D:\\gb\\csharp\\Seminars\\Seminars\\Sem3\\Sem3.csproj",
       "packagesPath": "C:\\Users\\ameon\\.nuget\\packages\\",
-      "outputPath": "D:\\gb\\csharp\\Seminars\\Seminars\\Sem1\\obj\\",
+      "outputPath": "D:\\gb\\csharp\\Seminars\\Seminars\\Sem3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ameon\\AppData\\Roaming\\NuGet\\NuGet.Config"

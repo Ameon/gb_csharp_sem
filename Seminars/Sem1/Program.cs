@@ -1,7 +1,24 @@
-﻿Console.WriteLine("Привет, Мир!");
-double a = 7;
-double b = 5;
-double c = a / b;
+﻿// Console.WriteLine("Привет, Мир!");
+
+// 1. Пример с целыми числами
+
+// int a = 7;
+// int b = 5;
+// int c = a / b;
+// Console.WriteLine(c);
+
+// 2. Пример чисел с плавающей точкой
+
+// double a = 7;
+// double b = 5;
+// double c = a / b;
+// Console.WriteLine(c);
+
+// 3. Пример считывания числа из консоли
+
+// int c = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine(c);
+
 // Task_1
 // System.Console.Write("Введите число, квадрат которого вы хотите увидеть -> ");
 // int num = Convert.ToInt32(Console.ReadLine());

@@ -1,0 +1,15 @@
+D:\gb\csharp\Seminars\Seminars\Sem3\bin\Debug\net6.0\Sem3.exe
+D:\gb\csharp\Seminars\Seminars\Sem3\bin\Debug\net6.0\Sem3.deps.json
+D:\gb\csharp\Seminars\Seminars\Sem3\bin\Debug\net6.0\Sem3.runtimeconfig.json
+D:\gb\csharp\Seminars\Seminars\Sem3\bin\Debug\net6.0\Sem3.dll
+D:\gb\csharp\Seminars\Seminars\Sem3\bin\Debug\net6.0\Sem3.pdb
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.csproj.AssemblyReference.cache
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.AssemblyInfoInputs.cache
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.AssemblyInfo.cs
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.csproj.CoreCompileInputs.cache
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.dll
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\refint\Sem3.dll
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.pdb
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\Sem3.genruntimeconfig.cache
+D:\gb\csharp\Seminars\Seminars\Sem3\obj\Debug\net6.0\ref\Sem3.dll
